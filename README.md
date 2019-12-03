@@ -2,6 +2,9 @@
 
 ####  My personal blog web application.
 
+## Live Site link
+You can view the live application by following this [link](https://machariablog.herokuapp.com/).
+
 ####  User view
 * User can view the blog posts on the site
 * User sees random quotes on the site
@@ -79,9 +82,6 @@ Here is a run through of how to set up the application:
 ## Support and contact details
 You can provide feedback or raise any issues/ bugs through the following means:
 * official1offmark@gmail.com
-
-## Live Site link
-You can view the live application by following this [link](https://collinsm-blog.herokuapp.com/).
 
 ## License
 #### [*GNU License*](LICENSE)
